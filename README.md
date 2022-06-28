@@ -11,6 +11,8 @@ Memories is a full-stack CRUD social media application where registered users ca
 * Client-side detailed pages
 * Likes, comments and recommend section
 * Google Oauth, JWT and authentication middleware
+* MongoDB
+* Google Oauth: https://console.cloud.google.com/ ==> need client ID
 
 ## Run Locally
 Run npm i && npm start for both client and server side to start the app
