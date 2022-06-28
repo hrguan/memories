@@ -5,6 +5,12 @@
 ## Introduction
 Memories is a full-stack CRUD social media application where registered users can share notable or wildest places with others. Registered users are also able to like posts and leave reviews! This project was part of Adrian Hajdin course.
 
+## Features
+Pagination
+Search by title or tag
+Client-side detailed pages
+Likes, comments and recommend section
+Google Oauth, JWT and authentication middleware
 
 ## Run Locally
 run npm i && npm start for both client and server side to start the app
